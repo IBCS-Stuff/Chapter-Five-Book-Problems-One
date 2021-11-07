@@ -1,7 +1,7 @@
 # Chapter-Five-Book-Problems-One
 
 # Question 1
-
+```
  - 1a. Output: 1 11 21 31 41 51 61 71 81 91 Number of Iterations: 10
  - 1b. Output: N/A Number of Iterations: Zero
  - 1c. Output: 250 Number of Iterations: Infinite
@@ -15,7 +15,7 @@
 0
 0
 0
-
+```
 # Question 3
 ```
 mystery(1); - 1 0
