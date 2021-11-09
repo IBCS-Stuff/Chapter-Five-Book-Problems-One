@@ -35,9 +35,39 @@ mystery(64); - 1 6
 ```
 # Question 5
 ```
-int a: 0 - 100
-int b: 50 - 70
-int c: 0 - 70
-int d: -20 - 80
-int e: 0 - 40, exlcuding any value that isn't divisible by 4
+int a: 0 - 99
+int b: 50 - 69
+int c: 0 - 69
+int d: -20 - 79
+int e: 0 - 36, exlcuding any value that isn't divisible by 4
+```
+
+# Question 8
+```
+a. 10 Iterations; result: 1 11 21 31 41 51 61 71 81 91 
+b. Infinite Iterations; result for the first four lines:
+count down: 10
+count down: 9
+count down: 8
+count down: 7
+
+c.  Infinite Iterations, prints 250 each time in a new line. 
+d. Two Iterations, prints 
+100
+50
+
+e. 3 Iterations; prints 2 4 16 
+f. Loop runs 5 times, results in bbbbbabbbbb
+g. Loop runs 7 times and displays 
+10
+5
+2
+1
+0
+0
+0
+
+h. Loop runs 3 times. /\/\/\/\/\/\/\/\
+
+
 ```
